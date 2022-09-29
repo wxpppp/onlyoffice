@@ -1,0 +1,2 @@
+# onlyoffice
+support loongarch64
